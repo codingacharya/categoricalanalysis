@@ -1,3 +1,7 @@
+**Click here for Video analysis** https://youtu.be/rU2yB-IL-gQ
+
+
+
 git clone https://github.com/codingacharya/categoricalanalysis.git
 
 cd categoricalanalysis
